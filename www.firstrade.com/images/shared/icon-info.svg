@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="information" opacity="0.8">
+    <path id="Path_803" data-name="Path 803" d="M8,0a8,8,0,1,0,8,8A8.009,8.009,0,0,0,8,0ZM8,14.545A6.545,6.545,0,1,1,14.545,8,6.553,6.553,0,0,1,8,14.545Z" fill="#4d6582"/>
+    <path id="Path_804" data-name="Path 804" d="M145.911,70a.909.909,0,1,0,.909.91A.91.91,0,0,0,145.911,70Z" transform="translate(-137.911 -66.577)" fill="#4d6582"/>
+    <path id="Path_805" data-name="Path 805" d="M150.682,140a.682.682,0,0,0-.682.682v4.091a.682.682,0,1,0,1.364,0v-4.091A.682.682,0,0,0,150.682,140Z" transform="translate(-142.682 -132.97)" fill="#4d6582"/>
+  </g>
+</svg>
